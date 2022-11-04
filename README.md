@@ -4,6 +4,16 @@ This program find the shortest path to solve the maze using breadth first search
 
 
 Example 1
+
+
+
+
+
+
+
+
+
+
 ![Example 1](Images/maze1.jpg)
 
 The output is:
@@ -12,6 +22,20 @@ Total cost: 6
 
 
 Example 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Example 2](Images/final.jpg)
 
 The output is :
