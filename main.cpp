@@ -1,6 +1,7 @@
 //Contains Main function
 #include "maze.h"
 
+
 int main() {
     fstream fin;
     vector<int> myvector;
