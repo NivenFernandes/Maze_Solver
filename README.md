@@ -1,4 +1,4 @@
-![Maze](Images/maze.jpg)
+![Maze](Images/maze.gif)
 
 This program find the shortest path to solve the maze using breadth first search. The program takes the input from a directed graph.  
 
